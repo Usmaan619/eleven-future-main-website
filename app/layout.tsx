@@ -33,18 +33,18 @@ export const metadata: Metadata = {
   // ⭐ Updated ICONS (recommended best-practice)
   icons: {
     icon: [
-      { url: "/icon.png" },
-      { url: "/icon.png", type: "image/png" },
+      { url: "/favicon.ico" },
+      { url: "/favicon.ico", type: "image/png" },
       {
-        url: "/icon.png",
+        url: "/favicon.ico",
         media: "(prefers-color-scheme: light)",
       },
       {
-        url: "/icon.png",
+        url: "/favicon.ico",
         media: "(prefers-color-scheme: dark)",
       },
     ],
-    apple: [{ url: "/icon.png", sizes: "180x180" }],
+    apple: [{ url: "/favicon.ico", sizes: "180x180" }],
   },
 
   openGraph: {
